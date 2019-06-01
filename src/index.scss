@@ -1,0 +1,12 @@
+$backgroundColor: rgb(53, 50, 50);
+
+body {
+  margin: 0;
+  font-family: 'Poiret One', cursive;
+  background-color: $backgroundColor;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
